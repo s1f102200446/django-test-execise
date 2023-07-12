@@ -1,4 +1,5 @@
 venv/
 __pycache__/
-*._pycache_*.kog
+*.pyc
+*.log
 db.splite3
